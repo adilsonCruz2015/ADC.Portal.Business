@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Servico", "1 - Servico", "{766D1966-FED0-4092-B4EB-2CDDC72B407B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Estrutura", "2 - Estrutura", "{718F23F1-9614-4EA0-B2BE-EBEB7C53C51C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Teste", "3 - Teste", "{493C2E97-37C9-4920-B035-D2AD700928D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC.Portal", "ADC.Portal\ADC.Portal.csproj", "{A1DAAF17-7C97-4946-9613-2457B13B9BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC.Portal.Idc.SimpleInjector", "ADC.Portal.Idc.SimpleInjector\ADC.Portal.Idc.SimpleInjector.csproj", "{8E82796E-5A5A-41F6-B1F7-AA7FA8FB3584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADC.Portal.Logger.Log4net", "ADC.Portal.Logger.Log4net\ADC.Portal.Logger.Log4net.csproj", "{22E9F529-049C-478B-BF58-D2A31AAB44A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DAAF17-7C97-4946-9613-2457B13B9BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DAAF17-7C97-4946-9613-2457B13B9BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DAAF17-7C97-4946-9613-2457B13B9BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DAAF17-7C97-4946-9613-2457B13B9BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E82796E-5A5A-41F6-B1F7-AA7FA8FB3584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E82796E-5A5A-41F6-B1F7-AA7FA8FB3584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E82796E-5A5A-41F6-B1F7-AA7FA8FB3584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E82796E-5A5A-41F6-B1F7-AA7FA8FB3584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E9F529-049C-478B-BF58-D2A31AAB44A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E9F529-049C-478B-BF58-D2A31AAB44A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E9F529-049C-478B-BF58-D2A31AAB44A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E9F529-049C-478B-BF58-D2A31AAB44A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1DAAF17-7C97-4946-9613-2457B13B9BA3} = {718F23F1-9614-4EA0-B2BE-EBEB7C53C51C}
+		{8E82796E-5A5A-41F6-B1F7-AA7FA8FB3584} = {718F23F1-9614-4EA0-B2BE-EBEB7C53C51C}
+		{22E9F529-049C-478B-BF58-D2A31AAB44A0} = {718F23F1-9614-4EA0-B2BE-EBEB7C53C51C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55E55EE-5E95-4A2C-9CF3-A2142D29F187}
+	EndGlobalSection
+EndGlobal

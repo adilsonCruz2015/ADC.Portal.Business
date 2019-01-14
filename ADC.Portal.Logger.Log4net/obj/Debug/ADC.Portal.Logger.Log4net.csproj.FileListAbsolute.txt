@@ -1,0 +1,5 @@
+D:\Desenvolvimento\ADC.Portal.Business\ADC.Portal.Logger.Log4net\bin\Debug\ADC.Portal.Logger.Log4net.dll
+D:\Desenvolvimento\ADC.Portal.Business\ADC.Portal.Logger.Log4net\bin\Debug\ADC.Portal.Logger.Log4net.pdb
+D:\Desenvolvimento\ADC.Portal.Business\ADC.Portal.Logger.Log4net\obj\Debug\ADC.Portal.Logger.Log4net.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\ADC.Portal.Business\ADC.Portal.Logger.Log4net\obj\Debug\ADC.Portal.Logger.Log4net.dll
+D:\Desenvolvimento\ADC.Portal.Business\ADC.Portal.Logger.Log4net\obj\Debug\ADC.Portal.Logger.Log4net.pdb
